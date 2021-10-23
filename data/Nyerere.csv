@@ -1,9 +1,9 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Ebube	Oguamanam,0,0,
-Seyi	OLUWADARE,2,1,
-Abdulkareem	Babatunde,0,0,
-Nengenen Shadrach	Mbativga,0,0,
-Femi	Adedugbe,6,1,
-Toluwalase	Tawak,10,1,
-Mujeeb	Sonibare,0,0,
-Adedayo	Aruwajoye,1,1,
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Ebube Oguamanam,0,0,0,inactive
+Seyi OLUWADARE,2,1,3,active
+Abdulkareem Babatunde,0,0,0,inactive
+Nengenen Shadrach Mbativga,0,0,2,active
+Femi Adedugbe,6,1,6,active
+Toluwalase Tawak,10,1,6,active
+Mujeeb Sonibare,0,0,0,inactive
+Adedayo Aruwajoye,1,1,6,active

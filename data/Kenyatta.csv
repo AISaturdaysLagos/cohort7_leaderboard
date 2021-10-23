@@ -1,9 +1,9 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Alexander Oyedele,0,0
-Yetunde Afolabi,1,1
-Reuben Victoria,0,0
-Afusat Onasanya,0,0
-Désiré Nzengou,0,0
-Charles Ifem,3,1,
-Amazing-Grace Umoren,0,0
-Zife Chiji-Okoye,0,0
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Alexander Oyedele,0,0,0,inactive
+Yetunde Afolabi,1,1,5,active
+Reuben Victoria,0,0,0,inactive
+Afusat Onasanya,0,0,1,active
+Désiré Nzengou,0,0,3,active
+Charles Ifem,3,1,5,active
+Amazing-Grace Umoren,0,0,4,active
+Zife Chiji-Okoye,0,0,0,inactive

@@ -1,9 +1,9 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Osagie	Iyayi,0,0,
-Chinonso	Ezebuiro,4,1,
-Christian	Ozoemene,0,0,
-Fola	Animashaun,1,1,
-Abiola	Ibraheem,0,0,
-Adenike	Ehinloju,1,1,
-Olamide	Jaiyeola,0,0,
-Naheem	Adebisi,0,0,
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Osagie Iyayi,0,0,2,active
+Chinonso Ezebuiro,4,1,0,active
+Christian Ozoemene,0,0,1,active
+Fola Animashaun,1,1,4,active
+Abiola Ibraheem,0,0,0,inactive
+Adenike Ehinloju,1,1,6,active
+Olamide Jaiyeola,0,0,0,inactive
+Naheem Adebisi,0,0,0,inactive

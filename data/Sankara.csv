@@ -1,9 +1,9 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Kingsley	Ogechukwu,0,1,
-Muawiyya	Musa,1,1,
-Joshua	Matthew,3,1,
-Justin	Murenzi,0,0,
-Ibrahim	Afolabi,0,0,
-Hannah Lebechi	Ochim,1,1,
-Babalola Elisha,1,1,
-David	Ogaga,1,0,
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Kingsley Ogechukwu,0,1,3,active
+Muawiyya Musa,1,1,5,active
+Joshua Matthew,3,1,2,active
+Justin Murenzi,0,0,0,inactive
+Ibrahim Afolabi,0,0,0,inactive
+Hannah Lebechi	Ochim,1,1,3,active
+Babalola Elisha,1,1,3,active
+David Ogaga,1,0,0,active

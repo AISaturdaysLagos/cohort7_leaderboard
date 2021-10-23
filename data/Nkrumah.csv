@@ -1,9 +1,9 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Oluwatimilehin	Idowu,9,1,
-Azuka	Orumgbe,0,0,
-Simon	Babatunde,0,0,
-Uthman	Allison,1,1,
-Yinka	Akindele,0,0,
-Oluwatosin	Sanni,0,0,
-Chisom	Okwueze,0,0,
-EMMANUEL	AJEWOLE,0,0,
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Oluwatimilehin Idowu,9,1,5,active
+Azuka Orumgbe,0,0,0,inactive
+Simon Babatunde,0,0,0,inactive
+Uthman Allison,1,1,3,active
+Yinka Akindele,0,0,0,inactive
+Oluwatosin Sanni,0,0,0,inactive
+Chisom Okwueze,0,0,0,inactive
+EMMANUEL AJEWOLE,0,0,0,inactive

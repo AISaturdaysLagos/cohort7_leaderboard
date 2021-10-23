@@ -1,10 +1,10 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Ladidi	Abdulmumin,0,0,
-Joseph	Ojo,0,1,
-Dara	Obademi,0,0,
-Olomu Godsgift,0,0,
-Oyedun	Samuel,0,1,
-Elizabeth	Olutayese,1,1,
-Funmilola	Bashorun,0,1,
-Shadrack	Adeyemi,11,1,
-Oluwaseun	Ajayi,3,1,
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Ladidi Abdulmumin,0,0,0,inactive
+Joseph Ojo,0,1,2,active
+Dara Obademi,0,0,2,active
+Olomu Godsgift,0,0,1,active
+Oyedun Samuel,0,1,2,active
+Elizabeth Olutayese,1,1,4,active
+Funmilola Bashorun,0,1,6,active
+Shadrack Adeyemi,11,1,4,active
+Oluwaseun Ajayi,3,1,2,active

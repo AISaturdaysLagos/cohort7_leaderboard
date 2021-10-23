@@ -1,10 +1,10 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Christopher	Adai,0,1
-Margaret	Awojide,1,1
-Oguejiofor Miracle	Mbah,0,0
-Eloho	Unufe,1,1
-Chisom	Okoye,6,1
-Olaoluwa	Ogunse,0,1
-Dare Olufemi,0,0
-Ifeoluwa	Aigbiniode,0,0
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Christopher Adai,0,1,1,active
+Margaret Awojide,1,1,5,active
+Oguejiofor Miracle Mbah,0,0,0,inactive
+Eloho Unufe,1,1,2,active
+Chisom Okoye,6,1,5,active
+Olaoluwa Ogunse,0,1,4,active
+Dare Olufemi,0,0,0,inactive
+Ifeoluwa Aigbiniode,0,0,0,inactive
 

@@ -1,9 +1,9 @@
-Name, Number of Commit, Task Completed, Class Attendance
-OLUWAFEMI	OLUWATOLA,0,1,
-Ridwan	Muhammed Busari,0,0,
-Akolade	Hamzat,1,0,
-Oke	Olayinka Oluwatosin,0,0,
-Abraham	Owodunni,10,1,
-Olajumoke	Fasoranti,1,1,
-Mustapha Rufai,0,0,
-Okezie Austine,0,0,
+Name, Number of Commit, Task Completed, Class Attendance, Status
+OLUWAFEMI OLUWATOLA,0,1,5,active
+Ridwan Muhammed Busari,0,0,1,active
+Akolade Hamzat,1,0,4,active
+Oke Olayinka Oluwatosin,0,0,4,active
+Abraham Owodunni,10,1,5,active
+Olajumoke Fasoranti,1,1,6,active
+Mustapha Rufai,0,0,2,active
+Okezie Austine,0,0,0,inactive

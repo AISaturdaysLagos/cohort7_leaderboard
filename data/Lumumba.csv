@@ -1,9 +1,9 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Judah Banjoko,2,1
-Tobiloba Ogunmesi,0,0
-Riliwan Ajao,0,0
-Kehinde Egbetokun,1,1
-Adebayo Jamiu,0,0
-Bukola Ayeni,0,0
-Timothy BABATUNDE,0,0
-Queen Ehirim,0,0
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Judah Banjoko,2,1,0,active
+Tobiloba Ogunmesi,0,0,0,inactive
+Riliwan Ajao,0,0,2,active
+Kehinde Egbetokun,1,1,6,active
+Adebayo Jamiu,0,0,0,inactive
+Bukola Ayeni,0,0,2,active
+Timothy BABATUNDE,0,0,0,inactive
+Queen Ehirim,0,0,0,inactive

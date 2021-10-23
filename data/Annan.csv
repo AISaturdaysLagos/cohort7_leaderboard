@@ -1,9 +1,9 @@
-Name, Number of Commit, Task Completed, Class Attendance
-Paul Wombo,1,1
-Yusuf Ganiyu,0,0
-UGOCHUKWU UWAZURUIKE,0,1
-Babatola Fadahunsi,0,1
-Dimkpa Simon Chinonye,0,0
-Collins Abegunde,3,1
-Oluwafemi Arowolo,1,1
-Ada Nwanegbo,0,0
+Name, Number of Commit, Task Completed, Class Attendance, Status
+Paul Wombo,1,1,4,active
+Yusuf Ganiyu,0,0,0,inactive
+UGOCHUKWU UWAZURUIKE,0,1,4,active
+Babatola Fadahunsi,0,1,4,active
+Dimkpa Simon Chinonye,0,0,0,inactive
+Collins Abegunde,3,1,5,active
+Oluwafemi Arowolo,1,1,4,active
+Ada Nwanegbo,0,0,0,inactive
